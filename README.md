@@ -1,4 +1,4 @@
-# Tikus News Backend
+# Tikus News Backend [ simple api ]
 
 Tikus News Backend is the backend server for the Tikus News mobile app, built using JavaScript with Node.js and Express.js. It utilizes MongoDB as the database for storing news data. The backend follows the MVC architecture pattern, with separate folders for models, controllers, and routes to organize the codebase effectively.
 
@@ -15,8 +15,6 @@ Tikus News Backend is the backend server for the Tikus News mobile app, built us
 - **RESTful API**: The backend provides a RESTful API for managing news data, including endpoints for creating, reading, updating, and deleting news articles.
 
 - **MVC Architecture**: The project follows the Model-View-Controller (MVC) architecture pattern, separating concerns into models, controllers, and routes for better organization and maintainability.
-
-- **Authentication**: The backend supports user authentication using JWT (JSON Web Tokens) to secure endpoints and authenticate users.
 
 - **CRUD Operations**: Users can perform CRUD (Create, Read, Update, Delete) operations on news articles through the provided API endpoints.
 
